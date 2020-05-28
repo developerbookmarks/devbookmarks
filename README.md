@@ -1,1 +1,1 @@
-# www.devbookmarks.com
+# devbookmarks.com
